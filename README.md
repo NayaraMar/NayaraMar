@@ -20,4 +20,6 @@
 
 <div align="center"><br>
   <a href="https://www.linkedin.com/in/nayara-maria-do-nascimento-74682622b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/NayaraMar/NayaraMar/blob/output/github-contribution-grid-snake.svg)
 </div>
