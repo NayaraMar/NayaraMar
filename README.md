@@ -1,4 +1,4 @@
-### Olá, sou uma programadora em desenvolvimento... Me chamo Nayara Maria!
+### Olá, sou uma programadora em desenvolvimento... Me chamo Nayara!
 
 - 🌱 Estudando desenvolvimento Full Stack, com foco em Back-end
 - 👩‍💻 Tecnologias: CSS, HTML, JavaScript e NodeJS
