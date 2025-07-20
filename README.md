@@ -1,9 +1,5 @@
-### Olá, sou uma programadora em desenvolvimento... Me chamo Nayara Maria!
+### Olá! me chamo Nayara, sou desenvolvedora Back-end. Aqui no meu perfil você pode ver alguns dos meus principais projetos.
 
-- 🌱 Estudando desenvolvimento Full Stack, com foco em Back-end
-- 👩‍💻 Tecnologias: CSS, HTML, JavaScript e NodeJS
-- 😄 Pronomes: ela/dela
-- ⚡ Estranhamente, não gosto de café... Ainda😅
 
 <div align="center">
   <a href="https://github.com/NayaraMar">
