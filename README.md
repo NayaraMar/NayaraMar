@@ -1,7 +1,7 @@
 Olá! Me chamo Nayara.  
 Sou desenvolvedora de software, apaixonada por tecnologia e por resolver problemas com código. Aqui no meu perfil, você encontrará projetos finalizados e outros em constante evolução, todos criados com dedicação, aprendizado e curiosidade.
 
-Atualmente, estou focando na formação Back-end, com especial interesse no desenvolvimento com Java.
+Atualmente, estou focando na formação Back-end, com especial interesse no desenvolvimento com Python e Java.
 
 🚀 Sobre mim: 
 
