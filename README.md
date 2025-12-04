@@ -3,7 +3,7 @@ Sou desenvolvedora de software, apaixonada por tecnologia e por resolver problem
 
 Atualmente, estou focando na formação Back-end, com especial interesse no desenvolvimento com Python e Java.
 
-🚀 Sobre mim: 
+Sobre mim: 
 
 🌱 Estudando desenvolvimento Back-end  
 👩‍💻 Tecnologias: Java, Python, Django, SQL, Docker  
